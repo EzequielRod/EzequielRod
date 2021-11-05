@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome aboard my code station 🚀 👽
 
-##<p>
+### <p>
     I am a student from Bootcamp Fullstack development <a href="https://www.soyhenry.com/"> <b>Soy HENRY</b></a>, i lives in México. <br>
     I decided to change my career, I am a graduate of the territorial planning! <br> 
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
@@ -21,7 +21,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *curiosity* 🤓
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
-## Spotify Playing 🎧
+### Spotify Playing 🎧
 
 
 
