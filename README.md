@@ -24,7 +24,7 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
-<img align="right" alt="GIF" whidth= "10px" heigth="10px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100" height="100"/>
+<img align="right" alt="GIF" whidth= "10px" heigth="10px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
 
 ### Spotify Playing 🎧
 
