@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
 <!--
 **EzequielRod/EzequielRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
