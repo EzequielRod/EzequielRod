@@ -27,7 +27,7 @@
 <img align="right" alt="GIF" whidth= "10px" heigth="10px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
 
 ### Do you can to see my work  
-| Proyects | What´s i do |
+| Proyects | What´s i did |
 | ------ | ------ |
 | UI/Figma | [UI Kit MenteSapiens] |
 | UI/Figma | [MVP Web site MenteSapiens] |
