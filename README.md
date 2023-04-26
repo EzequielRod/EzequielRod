@@ -3,7 +3,7 @@
 ### Hi there 👋 Welcome aboard my code station 🚀 👽
 
  <p>
-    I am a student from Bootcamp Fullstack development <a href="https://www.soyhenry.com/"> <b>Soy HENRY</b></a>, i lives in México. <br>
+    I am a student from Bootcamp Fullstack development <a href="https://www.soyhenry.com/"> <b>Soy HENRY, Bootcamp Guillermo Rodas @glrodasz, Platzi and Chreana</b></a>, i lives in México. <br>
     I decided to change my career, I am a graduate of the territorial planning! <br> 
     <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
