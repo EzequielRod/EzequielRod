@@ -26,6 +26,15 @@
 
 <img align="right" alt="GIF" whidth= "10px" heigth="10px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="300"/>
 
+##Do you see my work 
+| Proyects | What´s i do |
+| ------ | ------ |
+| UI/Figma | [UI Kit MenteSapiens] |
+| UI/Figma | [MVP Web site MenteSapiens] |
+| Food /React | [Final Proyects Bootcamp Henry |
+| Pokemon/React | [Final Project Bootcamp Henry] |
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/31t6375rnepcc2pp76ybmhzqvu4y)
